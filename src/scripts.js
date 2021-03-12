@@ -18,7 +18,7 @@ window.addEventListener('load', function () {
       document.getElementById('shuttleBackground').style.backgroundColor =
         'blue';
       document.getElementById('spaceShuttleHeight').innerHTML = '10000';
-      document.getElementById('rocket').style.top = 240 + 'px'
+      document.getElementById('rocket').style.top = 240 + 'px';
     }
   });
 
